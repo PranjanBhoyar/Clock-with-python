@@ -2,7 +2,7 @@
 A digital clock showing time with the help of python code.
 
 
-
+```
 from tkinter import *
 from tkinter.ttk import *
 
@@ -21,3 +21,4 @@ label.pack(anchor='center')
 time()
 
 mainloop()
+```
